@@ -1,0 +1,6 @@
+## PC
+Sysprofile: [tomtrix](http://www.sysprofile.de/id194138)
+
+## Software
+Streaming software: [OBS Studio](https://obsproject.com/de/download)
+Cutting software: [Shotcut](https://shotcut.org/download/)
